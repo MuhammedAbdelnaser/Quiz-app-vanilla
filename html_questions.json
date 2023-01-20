@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Javascript is an _______ language?",
+        "answer_1": "Object-Oriented",
+        "answer_2": "Object-Based",
+        "answer_3": "Procedural",
+        "answer_4": "None of the above",
+        "right_answer": "Object-Oriented"
+    },
+    {
+        "title": "What does ... operator do in JS?",
+        "answer_1": "It is used to spread iterables to individual elements",
+        "answer_2": "It is used to describe a datatype of undefined size",
+        "answer_3": "No such operator exists",
+        "answer_4": "None of the above",
+        "right_answer": "It is used to spread iterables to individual elements"
+    },
+    {
+        "title": "Which of the following methods is used to access HTML elements using Javascript?",
+        "answer_1": "getElementbyId()",
+        "answer_2": "getElementsByClassName()",
+        "answer_3": "Both A and B",
+        "answer_4": "None of the above",
+        "right_answer": "Both A and B"
+    },
+    {
+        "title": "When the switch statement matches the expression with the given labels, how is the comparison done?",
+        "answer_1": "Both the datatype and the result of the expression are compared.",
+        "answer_2": "Only the datatype of the expression is compared.",
+        "answer_3": "Only the value of the expression is compared.",
+        "answer_4": "None of the above",
+        "right_answer": "Both the datatype and the result of the expression are compared."
+    },
+    {
+        "title": "What keyword is used to check whether a given property is valid or not?",
+        "answer_1": "in",
+        "answer_2": "is in",
+        "answer_3": "exists",
+        "answer_4": "lies",
+        "right_answer": "in"
+    },
+    {
+        "title": "What is the use of the <noscript> tag in Javascript?",
+        "answer_1": "The contents are displayed by non-JS-based browsers.",
+        "answer_2": "Clears all the cookies and cache.",
+        "answer_3": "Both A and B",
+        "answer_4": "None of the above",
+        "right_answer": "The contents are displayed by non-JS-based browsers."
+    },
+    {
+        "title": "When an operator’s value is NULL, the typeof returned by the unary operator is: ",
+        "answer_1": "Boolen",
+        "answer_2": "Undefined",
+        "answer_3": "Object",
+        "answer_4": "Integer",
+        "right_answer": "Object"
+    },
+    {
+        "title": "What does the Javascript “debugger” statement do?",
+        "answer_1": "It will debug all the errors in the program at runtime.",
+        "answer_2": "It acts as a breakpoint in a program.",
+        "answer_3": "It will debug error in the current statement if any.",
+        "answer_4": "None of the above",
+        "right_answer": "It acts as a breakpoint in a program."
+    },
+    {
+        "title": "Which function is used to serialize an object into a JSON string in Javascript?",
+        "answer_1": "stringify()",
+        "answer_2": "parse()",
+        "answer_3": "convert()",
+        "answer_4": "None of the above",
+        "right_answer": "stringify()"
+    },
+    {
+        "title": "Which of the following are closures in Javascript?",
+        "answer_1": "Variables",
+        "answer_2": "Functions",
+        "answer_3": "Objects",
+        "answer_4": "All of the above",
+        "right_answer": "All of the above"
+    }
+]
